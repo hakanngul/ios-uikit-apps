@@ -1,0 +1,38 @@
+/* Class = "UIButton"; configuration.title = "Biber"; ObjectID = "DDW-Z7-hKb"; */
+"DDW-Z7-hKb.configuration.title" = "Biber";
+
+/* Class = "UIButton"; normalTitle = "Buton"; ObjectID = "DDW-Z7-hKb"; */
+"DDW-Z7-hKb.normalTitle" = "Buton";
+
+/* Class = "UIButton"; configuration.title = "SEPETE EKLE"; ObjectID = "O0J-YT-agz"; */
+"O0J-YT-agz.configuration.title" = "SEPETE EKLE";
+
+/* Class = "UIButton"; normalTitle = "Buton"; ObjectID = "O0J-YT-agz"; */
+"O0J-YT-agz.normalTitle" = "Buton";
+
+/* Class = "UILabel"; text = "Biftekli Peynir"; ObjectID = "PRJ-FU-LND"; */
+"PRJ-FU-LND.text" = "Biftekli Peynirli";
+
+/* Class = "UILabel"; text = "20 dk"; ObjectID = "Ppp-BT-wkc"; */
+"Ppp-BT-wkc.text" = "20 dk";
+
+/* Class = "UILabel"; text = "Teslimat"; ObjectID = "Ypt-Yr-hzX"; */
+"Ypt-Yr-hzX.text" = "Teslimat";
+
+/* Class = "UILabel"; text = "₺ 5.98"; ObjectID = "lFT-7Q-xAe"; */
+"lFT-7Q-xAe.text" = "₺ 168";
+
+/* Class = "UIButton"; configuration.title = "Sucuk"; ObjectID = "tZs-Ts-kfu"; */
+"tZs-Ts-kfu.configuration.title" = "Sucuk";
+
+/* Class = "UIButton"; normalTitle = "Buton"; ObjectID = "tZs-Ts-kfu"; */
+"tZs-Ts-kfu.normalTitle" = "Buton";
+
+/* Class = "UILabel"; text = "Et severler, pizzanızla tanışmaya hazır olun!"; ObjectID = "tof-lW-h0A"; */
+"tof-lW-h0A.text" = "Et severler, pizzanızla tanışmaya hazır olun!";
+
+/* Class = "UIButton"; configuration.title = "Peynir"; ObjectID = "u40-8K-kfE"; */
+"u40-8K-kfE.configuration.title" = "Peynir";
+
+/* Class = "UIButton"; normalTitle = "Buton"; ObjectID = "u40-8K-kfE"; */
+"u40-8K-kfE.normalTitle" = "Buton";
